@@ -1,0 +1,29 @@
+/*   
+Theme Name: HTML5 Wordpress Boilerplate
+Theme URI: https://github.com/hugodias/HTML5-Wordpress-Boilerplate
+Description: This is HTML5 template based on HTML5Boilerplate (https://github.com/h5bp/html5-boilerplate) to create brand new wordpress themes.
+Author: Hugo Dias
+Author URI: https://github.com/hugodias
+Version: 0.1
+*/
+.clear{clear:both}
+.wrap,footer{
+	width:960px;
+	margin:0 auto;
+	padding-top:60px;
+}
+
+footer{
+	height: 60px;
+}
+.content{
+	width:620px;
+	margin:0 0 0 10px;
+	float:left;
+}
+
+#sidebar{
+	width:300px;
+	margin:0 10px 0 10px;
+	float:right;
+}
