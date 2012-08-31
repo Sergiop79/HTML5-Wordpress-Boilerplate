@@ -6,9 +6,10 @@ HTML5 WP Boilerplate is a template based on
 to create brand new wordpress themes .
 
 #### Getting started
-* Download or clone the theme [here][]
-[here]: https://github.com/h5bp/html5-boilerplate
-* Go to http://your-website.com/wp-admin and active your theme
+* Download the theme [here][]
+[here]: https://github.com/hugodias/HTML5-Wordpress-Boilerplate/zipball/master
+* Extract the content downloaded in `wp-content/themes/`
+* Go to **http://your-website.com/wp-admin/themes.php** and active your theme
 
 #### Features
 * HTML5Boilerplate 4.0
